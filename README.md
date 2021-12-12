@@ -5,7 +5,7 @@ Un ejemplo sobre codigo para menu de redes sociales completa y flotantes en HTLM
 
 Comenzando 🚀
 
-Link de prueba: 
+Link de prueba: https://ejpyszczek.github.io/Barra-Redes-Social/
 
 Herramientas requisitos 📋 HTML - CSS - Visual Studio Code
 
