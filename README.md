@@ -9,7 +9,7 @@ Link de prueba: https://ejpyszczek.github.io/Barra-Redes-Social/
 
 Herramientas requisitos 📋 HTML - CSS - Visual Studio Code
 
-Versionado 📌 Primera Version
+Versionado 📌 Segunda Version
 
 Autores ✒️ Enrique J. Pyszczek
 
